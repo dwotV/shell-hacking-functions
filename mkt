@@ -1,0 +1,3 @@
+function mkt(){
+	mkdir {scan,content,scripts}
+}
